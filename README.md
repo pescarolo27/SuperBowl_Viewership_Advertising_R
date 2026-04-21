@@ -5,7 +5,5 @@ You're going to explore how these elements interact.
 
 **The Data:** The data has been scraped from Wikipedia and is made up of two CSV files covering a span of all Super Bowls up to 2024. This data does contain missing values. The most relevant columns are noted below.
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Machine learning was not applied in this project. 
+This project was done in June, 2025. Machine learning was not applied in this project. 
 This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
